@@ -6,4 +6,13 @@
     height: auto !important;
   }
 }
-/*# sourceMappingURL=reponsive.css.map */
+
+@media screen and (max-width: 768px) {
+  .col-md-6 img {
+    height: 80% !important;
+    width: 80% !important;
+  }
+  .font-size-xl {
+    font-size: 38px !important;
+  }
+}
