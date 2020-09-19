@@ -1,0 +1,9 @@
+@media screen and (max-width: 992px) {
+  .nav-item {
+    text-align: center !important;
+  }
+  .navbar {
+    height: auto !important;
+  }
+}
+/*# sourceMappingURL=reponsive.css.map */
